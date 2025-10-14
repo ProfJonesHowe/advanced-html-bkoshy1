@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>This is my page!</title>
+</head>
+<body>
+	<header>
+		<h1>Your Name</h1>
+		<nav>
+			<a href="#about">About</a> |
+			<a href="#video">Video</a> |
+			<a href="#contact">Contact</a>
+		</nav>
+	</header>
+	<main>
+		<section id="about">
+			<h2>About Me</h2>
+			<p>Hello, my name is Brittney. I love watching shows on Netflix, playing video games, and drinking iced coffee. I also really like going on nice walks to enjoy the nature around me. It helps calm me down mentally and is soothing. </p>
+		</section>
+        
+		<article id="video">
+			<h2>My Favorite Video is...</h2>
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/MtN1YnoL46Q?si=4o6lxKFanmIKv-9g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+		</article>
+        
+		<aside>
+			<h3>Some Quick Facts About Me...</h3>
+			<ul>
+				<li>Favorite Food: Ramen</li>
+				<li>Hobby: Gaming</li>
+				<li>Fun Fact: I don't like peanut butter.</li>
+			</ul>
+		</aside>
+	</main>
+    
+	<footer>
+		<p>&copy; 2025 Brittney Koshy. All rights reserved.</p>
+
+
+
+</body>
+</html>
